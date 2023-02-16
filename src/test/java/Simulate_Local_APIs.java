@@ -18,7 +18,7 @@ public class Simulate_Local_APIs {
             log().all();
     }
 
-    //@Test
+    @Test
     public void test_post(){
 
         JSONObject req = new JSONObject();
@@ -84,7 +84,7 @@ public class Simulate_Local_APIs {
                 log().all();
     }
 
-    @Test
+    //@Test
     public void test_delete(){
 
         baseURI = "http://localhost:3000" ;

@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "firstname": "first one",
+      "lstname": "1st person",
+      "subjectId": 2,
+      "id": 1
+    },
+    {
+      "id": 3,
+      "firstname": "third",
+      "lstname": "person",
+      "subjectId": 1
+    },
+    {
+      "id": 4,
+      "firstname": "fourth ",
+      "lstname": "person",
+      "subjectId": 2
+    },
+    {
+      "firstname": "fifth",
+      "lstname": "new person",
+      "subjectId": 2,
+      "id": 5
+    }
+  ],
+  "subjects": [
+    {
+      "id": 1,
+      "name": "type1"
+    },
+    {
+      "id": 2,
+      "name": "type2"
+    }
+  ]
+}
